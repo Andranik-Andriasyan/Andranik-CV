@@ -1,3 +1,29 @@
-.ooo {
-    color: blue;
+.name {
+    font-weight: lighter;
 }
+.surname {
+    font-weight: bold;
+}
+.specialty-bord {
+    background-color: black;
+    margin-right: 530px;
+}
+
+.specialty-text {
+    color: white;
+    margin-left: 150px;
+}
+
+.img-block {
+    padding: 10px 50px;
+}
+
+.profile-picture {
+    border-radius: 50%;
+}
+.profile-block {
+    padding: 50px 100px;
+}
+.col-3 {
+    background-color: rgba(199, 153, 153, 0.199)
+   
